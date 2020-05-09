@@ -1,0 +1,15 @@
+---
+debug: false
+path:
+trakt:
+  list_name:
+  client_id: ############################
+  client_secret: ############################
+  # Below is filled in automatically when the script is run
+  authorization:
+    access_token:
+    token_type:
+    expires_in:
+    refresh_token:
+    scope:
+    created_at:
